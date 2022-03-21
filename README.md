@@ -45,6 +45,6 @@ Meu nome é Marcelo e eu sou um desenvolvedor front-end junior.
 #### Redes Sociais!
 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-🏡 [facebook][facebook] **|**  
+👔 [linkedin][linkedin] **|**  
+🏡 [facebook][facebook] 
 
