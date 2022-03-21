@@ -39,7 +39,7 @@ Meu nome é Marcelo e eu sou um desenvolvedor front-end junior.
 
 [instagram]: https://www.instagram.com/marcelovichar/
 [linkedin]: https://www.linkedin.com/in/marcelo-vichar-49271419b/
-[facebbok]: https://www.facebook.com/profile.php?id=100002973136158
+[facebook]: https://www.facebook.com/profile.php?id=100002973136158
 <br>
 
 #### Redes Sociais!
