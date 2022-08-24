@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é Marcelo e eu sou um desenvolvedor front-end junior.
+Meu nome é Marcelo e eu sou um desenvolvedor Web.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -8,10 +8,10 @@ Meu nome é Marcelo e eu sou um desenvolvedor front-end junior.
 
 ```kotlin
 <Desenvolvedor name="Marcelo Marcos Vichar Junior">
- <h1>Desenvolvedor Front-End</h1>
+ <h1>Desenvolvedor Web</h1>
  
  <h1>algumas habilidades:</h1>
- <p>javaScript, typeScript, react.js, Vue.js</p> 
+ <p>PHP, javaScript, typeScript, Vue.js, NuxtJs</p> 
 </Desenvolvedor>
 ```
 
