@@ -7,12 +7,12 @@ I'm Marcelo, and I'm a full-stack web developer
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-<Desenvolvedor name="Marcelo Marcos Vichar Junior">
+<Developer name="Marcelo Marcos Vichar Junior">
  <h1>Web developer</h1>
  
  <h1>I work withs:</h1>
  <p>Typescript, javaScript, PHP</p> 
-</Desenvolvedor>
+</Developer>
 ```
 
 ## **Languages ​​and tools:**  
