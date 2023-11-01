@@ -52,5 +52,8 @@ Meu nome é Marcelo e eu sou um desenvolvedor Web.
 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**  
-🏡 [facebook][facebook] 
+🏡 [facebook][facebook] **|**
 
+My contributions
+
+![Snake animation](https://github.com/MarceloVichar/MarceloVichar/blob/output/github-contribution-grid-snake.svg)
